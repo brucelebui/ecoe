@@ -1,0 +1,47 @@
+{[ {
+id: "1",
+title: "Dự án nhà mẫu 1",
+postImg: "https://cms.ecoegroup.com/Assets/Media/Uploads/Ecoe%20Website/04.2.jpg", 
+price: "3.5 tỷ",
+description: "Đây là dự án nhà mẫu 1",
+author: "Bruce",
+isOwner: false
+}, {
+id: "2",
+title: "Dự án nhà mẫu 2",
+postImg: "https://cms.ecoegroup.com/Assets/Media/Uploads/Ecoe%20Website/04.2.jpg", 
+price: "4.5 tỷ",
+description: "Đây là dự án nhà mẫu 1",
+author: "Bruce",
+isOwner: true
+}, {
+id: "3",
+title: "Dự án nhà mẫu 3",
+postImg: "https://cms.ecoegroup.com/Assets/Media/Uploads/Ecoe%20Website/04.2.jpg", 
+price: "5 tỷ",
+description: "Đây là dự án nhà mẫu 1",
+author: "Bruce",
+isOwner: false
+}
+, {
+id: "4",
+title: "Dự án nhà mẫu 4",
+postImg: "https://cms.ecoegroup.com/Assets/Media/Uploads/Ecoe%20Website/04.2.jpg", 
+price: "2.1 tỷ",
+description: "Đây là dự án nhà mẫu 1",
+author: "Bruce",
+isOwner: true
+}
+, {
+id: "5",
+title: "Dự án nhà mẫu 5",
+postImg: "https://cms.ecoegroup.com/Assets/Media/Uploads/Ecoe%20Website/04.2.jpg", 
+price: "3.2 tỷ",
+description: "Đây là dự án nhà mẫu 1",
+author: "Bruce",
+isOwner: false
+}
+],
+resultItems: 8,
+allItems:125
+}
